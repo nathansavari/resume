@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Nathan Savari",
+    "email": "nathan.savari.contact@gmail.com",
+    "label": "Fullstack Developer",
+    "summary": "Junior Fullstack Developer with a passion for modern web development. Experienced in creating and maintaining web applications with HTML, CSS, and JavaScript's frameworks like Next.js. Skilled in optimizing web pages for usability and performance. Curious to try new things like GO, Svelte, or Astro.",
+    "languages": ["French", "English"]
+  },
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "keywords": ["HTML/CSS", "JavaScript", "Go"]
+    },
+    {
+      "name": "Frameworks & Libraries",
+      "keywords": ["React", "Next.js", "Svelte", "Astro"]
+    },
+    {
+      "name": "Database & Tools",
+      "keywords": ["NoSQL", "SQL", "Git", "REST API"]
+    }
+  ],
+  "work": [
+    {
+      "company": "MyC",
+      "position": "Web Developer",
+      "startDate": "2023/01",
+      "endDate": "2023/04",
+      "summary": "Development and maintenance of several websites, collaboration with multidisciplinary teams, analyzing customer needs, designing solutions, and advanced mastery of web programming languages.",
+      "location": "Malta"
+    },
+    {
+      "company": "Bibak",
+      "position": "Data Product Owner",
+      "startDate": "2022/03",
+      "endDate": "2022/09",
+      "summary": "Managing product definition and development, working with technical teams, organizing product lifecycle, analyzing user needs and market trends, and managing data flows.",
+      "location": "Paris"
+    },
+    {
+      "company": "Avenir Climatique",
+      "position": "Volunteer Web Developer",
+      "startDate": "2021/01",
+      "endDate": "Present",
+      "summary": "Development and maintenance of the Avenir Climatique website, optimizing for search engines, and collaborating with the team.",
+      "location": "Remote"
+    }
+  ],
+  "education": [
+    {
+      "institution": "La Capsule",
+      "area": "Web & Mobile Application Development",
+      "studyType": "Professional Certification (Bachelor's/Master's level)",
+      "startDate": "2021/10",
+      "endDate": "2022/01",
+      "courses": [
+        "Front-end and back-end web development",
+        "Proficiency in HTML, CSS, and JavaScript",
+        "Use of the React library",
+        "Database design and management",
+        "Mobile application development with React Native"
+      ]
+    },
+    {
+      "institution": "Comnica",
+      "area": "Digital Marketing",
+      "studyType": "Graduate",
+      "startDate": "2020/09",
+      "endDate": "2021/06",
+      "courses": [
+        "Design and development of digital marketing strategies",
+        "Mastery of online marketing tools such as Google Analytics and AdWords",
+        "Creation of advertising campaigns on social networks",
+        "Analysis of campaign results and performance optimization",
+        "Marketing project management and coordination of multidisciplinary teams"
+      ]
+    }
+  ]
+}
